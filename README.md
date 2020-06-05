@@ -1,2 +1,2 @@
 # essay
-essays about machine learning 
+Essays about machine learning 
